@@ -436,3 +436,13 @@ h1 {
     border: none;
 }
 
+@media screen and (max-width : 850px) {
+    .titre-equipements{
+        font-size: 45px;
+    }
+}
+@media screen and (max-width : 500px) {
+    .titre-equipements{
+        font-size: 35px;
+    }
+}
